@@ -8,7 +8,7 @@
 
 ## Live Portfolio
 
-- **Portfolio Website:** [Live Portfolio](https://hareeshma-95.github.io/Hareeshma-Portfolio-Repo/)
+- **Portfolio Website:** [![Live Portfolio](https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge&logo=github)](https://hareeshma-95.github.io/Hareeshma-Portfolio-Repo/)
 - **Working Demo Video:** [Watch Portfolio Demo]
 
   
