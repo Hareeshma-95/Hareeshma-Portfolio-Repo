@@ -8,7 +8,7 @@
 
 ## Live Portfolio
 
-- **Portfolio Website:** [View My Portfolio](https://hareeshma-95.github.io/Hareeshma-Portfolio-Repo/)
+- **Portfolio Website:** [Live](https://hareeshma-95.github.io/Hareeshma-Portfolio-Repo/)
 - **Working Demo Video:** [Watch Portfolio Demo]
 
   
