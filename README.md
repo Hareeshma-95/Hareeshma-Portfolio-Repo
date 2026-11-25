@@ -2,7 +2,6 @@
 
 - **Templates:** HTML5
 - **Styling:** CSS3
-- **Programming Language:** JavaScript
 - **Responsive Design:** CSS Media Queries
 - **Static Files:** Images, Videos and PDF Resume
 
